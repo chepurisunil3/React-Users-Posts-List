@@ -7,6 +7,7 @@ Process To Run the Project\
 -> Run the command "npm install"\
 -> Run the command "npm run"\
 -> It should open a browser tab with login page\
+
 The static credentials for login are
 
 adminId: admin1234\
